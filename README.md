@@ -12,7 +12,7 @@ On windows you would download the [cross9.zip](https://justine.lol/linux-compile
 ## Linux
 Just build with gcc.
 
-# use
+# Use
 If you don't want to build yourself. Just run the ```build/rollc.com``` file.  
 
 ```
