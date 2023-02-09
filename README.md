@@ -2,7 +2,7 @@
 Rollup .h .c .cpp files to one file. Depend [cosmopolitan](https://justine.lol/cosmopolitan/download.html). Can run cross platform.  
 Like [nuklear](https://github.com/vurtun/nuklear) build script. But that use python.
 
-# build  
+# Build  
 Just use [cosmopolitan](https://justine.lol/cosmopolitan/download.html) method to build ```main.c```.  
 
 ## Windows
@@ -22,3 +22,5 @@ rollc
   -c config file, default rollc.txt
   -h header files, copy first.
 ```
+
+Thanks!
